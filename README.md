@@ -1,4 +1,4 @@
-# Chatbot Website using Flask, HTML, CSS, and OpenAI API
+# Chatbot Website using Flask, HTML, CSS, Javascript and OpenAI API
 
 This project demonstrates the implementation of a simple chatbot website using Flask (a Python web framework), HTML, CSS, and the OpenAI API to generate chatbot responses.
 
